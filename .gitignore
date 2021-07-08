@@ -40,7 +40,6 @@ configure
 install-sh
 missing
 .deps/
-Makefile
 config.log
 config.status
 depcomp
